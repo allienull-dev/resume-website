@@ -13,6 +13,7 @@ export default function Home() {
           height={500}
           priority
         />
+        <p> Tofu says you have to hire Allie Null</p>
       </main>
     </div>
   );
